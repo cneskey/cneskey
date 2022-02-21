@@ -1,4 +1,4 @@
-[![dog](https://twitter.com/CNeskey/header_photo)](https://www.linkedin.com/in/cneskey/)
+[![dog](https://pbs.twimg.com/profile_banners/14619311/1639880009/1500x500)](https://www.linkedin.com/in/cneskey/)
 
 <!--
 **cneskey/cneskey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
